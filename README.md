@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me:
-🚀 Software Developer with interests in Full-Stack Development, AI Engineering, and Data Analytics<br>💡 Passionate about building scalable, efficient, and user-focused applications<br><br>🤖 Exploring Artificial Intelligence and Machine Learning using Python and data-driven approaches<br>📊 Experienced in transforming raw data into actionable insights through analytics and visualization<br>🌐 Skilled in developing and maintaining modern web applications and CMS platforms<br>🛠 Comfortable working with databases, APIs, and version control in collaborative environments<br>📈 Continuously learning new technologies to stay aligned with industry trends<br>🤝 Open to collaboration, open-source contributions, and innovative project ideas<br>⚡ Focused on writing clean, maintainable code and delivering solutions with real-world impact
+🚀 Software Developer with interests in Full-Stack Development, AI Engineering, and Data Analytics<br>💡 Passionate about building scalable, efficient, and user-focused applications<br>🤖 Exploring Artificial Intelligence and Machine Learning using Python and data-driven approaches<br>📊 Experienced in transforming raw data into actionable insights through analytics and visualization<br>🌐 Skilled in developing and maintaining modern web applications and CMS platforms<br>🛠 Comfortable working with databases, APIs, and version control in collaborative environments<br>📈 Continuously learning new technologies to stay aligned with industry trends<br>🤝 Open to collaboration, open-source contributions, and innovative project ideas<br>⚡ Focused on writing clean, maintainable code and delivering solutions with real-world impact
 
 
 ## 🌐 Socials:
